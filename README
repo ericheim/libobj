@@ -1,0 +1,8 @@
+Simple mesh loader for wavefront objects with
+uv texture mapping for Android-NDK.
+Needs the libzip and libpng Android ports from:
+
+https://github.com/julienr/libpng-android.git
+https://github.com/julienr/libzip-android.git
+
+to build.
